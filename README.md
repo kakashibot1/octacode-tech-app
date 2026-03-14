@@ -41,3 +41,13 @@ Chaque leçon comprend **un titre, une description, et des exemples de code clai
 - Accessibilité sur **Android et iOS**
 - Application **Flutter 100% open-source**
 - Contenu **mis à jourégulen
+- 🧑‍💻 À propos de l’auteur
+Octavio Wina est passionné par l’enseignement de la programmation et le développement d’outils éducatifs.
+Son objectif avec OCTACODE TECH APP : rendre l’apprentissage du code accessible, structuré et progressif.📝 Licence
+Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+🔗 Liens utiles
+Flutter Documentation⁠�
+Dart Language⁠�
+GitHub Repository⁠�
+💚 Bon apprentissage avec OCTACODE TECH APP !
+Développé avec ❤️ par Octavio Wina
